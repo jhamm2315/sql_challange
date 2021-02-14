@@ -5,7 +5,7 @@ FROM employees AS employees
 	LEFT JOIN salaries AS salaries ON salaries.emp_no = employees.emp_no
 ORDER BY employees.last_name ASC, employees.first_name ASC;
 
--- --2. List first nme, last name, and hire date for employees who were hired in 1986.
+-- --2. List first name, last name, and hire date for employees who were hired in 1986.
 
 SELECT * FROM employees
 WHERE DATE_PART('year',hire_date) = 1986
