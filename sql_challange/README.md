@@ -99,11 +99,11 @@ Please note that if you wish to recreate the SQL database using the schema conta
 <ol>
 <li>Average Salary by Employee Count (Histogram).</li>
 
-!["Histogram Salary by Title"](https://github.com/timsamson/sql_challange/blob/main/EmployeeSQL/Images/Salary_Histogram.png)
+!["Histogram Salary by Title"](https://github.com/jhamm2315/sql_challange/blob/main/sql_challange/EmployeeSQL/Images/Salary_Histogram.png)
 
 <li>Average Salary by Employee Title.</li>
 
-!["Average Salary by Title"](https://github.com/timsamson/sql_challange/blob/main/EmployeeSQL/Images/AVG_Salary_by_Title.png)
+!["Average Salary by Title"](https://github.com/jhamm2315/sql_challange/blob/main/sql_challange/EmployeeSQL/Images/AVG_Salary_by_Title.png)
 
 </ol>
 
