@@ -50,7 +50,7 @@ CREATE TABLE "salaries" (
 
 CREATE TABLE "titles" (
     "title_id" CHAR(5)   NOT NULL,
-    "title" CHAR(255)   NOT NULL,
+    "title" CHAR(250) NOT NULL,
     CONSTRAINT "pk_titles" PRIMARY KEY (
         "title_id"
      )
