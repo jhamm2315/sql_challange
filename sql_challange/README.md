@@ -6,7 +6,7 @@
 The project requires that taking into account (6) CSV data files, to create and map a SQL Database solution. Once the database sturcture is completed the data must be uploaded and then queried to answer questions about the data contained within. Below is a diagram of the database. Please note: some minor changes were made post image capture.
 
 
-!["DB Schema Diagram"](https://github.com/timsamson/sql_challange/blob/main/EmployeeSQL/Schema/DB_Schema.png)
+!["DB Schema Diagram"](https://github.com/jhamm2315/sql_challange/blob/main/sql_challange/EmployeeSQL/Images/Question_1.png)
 
 
 <h2>Technologies</h2>
