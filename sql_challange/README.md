@@ -1,4 +1,4 @@
-# SQL Challang
+# SQL Challange
 
 <h1>EMPLOYEES SQL DATABASE</h1>
 
